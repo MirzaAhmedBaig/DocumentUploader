@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "390403218356",
+    "firebase_url": "https://student-document.firebaseio.com",
+    "project_id": "student-document",
+    "storage_bucket": "student-document.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390403218356:android:ba974d0cc1aaf7f8",
+        "android_client_info": {
+          "package_name": "com.mab.adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390403218356-t9snf19vdup1jvr7r1r4akapmopr93lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVxcPItqdw4NceGe-0eCHR0_vbE7bPuVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390403218356-t9snf19vdup1jvr7r1r4akapmopr93lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390403218356:android:737100ba92874f63",
+        "android_client_info": {
+          "package_name": "com.mab.documentuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390403218356-t9snf19vdup1jvr7r1r4akapmopr93lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVxcPItqdw4NceGe-0eCHR0_vbE7bPuVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390403218356-t9snf19vdup1jvr7r1r4akapmopr93lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390403218356:android:d5ab2ab4e52bf305",
+        "android_client_info": {
+          "package_name": "com.mab.studentrequest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390403218356-t9snf19vdup1jvr7r1r4akapmopr93lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVxcPItqdw4NceGe-0eCHR0_vbE7bPuVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390403218356-t9snf19vdup1jvr7r1r4akapmopr93lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
